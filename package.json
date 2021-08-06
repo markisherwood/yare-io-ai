@@ -1,0 +1,7 @@
+{
+  "name": "Yare.io",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Mark Isherwood <mark@markisherwood.me>",
+  "license": "MIT"
+}

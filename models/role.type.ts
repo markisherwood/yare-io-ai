@@ -1,0 +1,1 @@
+export type Role = 'capture' | 'defenders' | 'attackers' | 'harvesters';
